@@ -17,6 +17,7 @@ Actively seeking opportunities to collaborate on exciting projects and contribut
 
 ## **🌐 Connect with Me**
 LinkedIn: www.linkedin.com/in/ahmedzeer
+
 Email: ahmed.zeer@std.yildiz.edu.tr
 
 Feel free to explore my repositories to see what I'm currently working on. Open to collaborations and always eager to connect with fellow tech enthusiasts!
