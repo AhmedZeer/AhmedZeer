@@ -1,4 +1,4 @@
-# **Hey there, welcome to my musuem! 👋**
+# **Hey there👋**
 
 ## **🌟 About Me**
 I'm a passionate computer engineering student dedicated to exploring the intersections of hardware and software. Fascinated by the intricate concepts of computer science, I delve into various projects and coursework to expand my knowledge in this dynamic field.
