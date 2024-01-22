@@ -11,10 +11,6 @@ Personal Projects: Trying to enhance my comprehension in _Machine Learning_ conc
 Programming Languages: C and Python.
 Problem Solving: Love tackling challenging problems and crafting efficient solutions.
 
-## **📚 Learning & Growth**
-Constantly exploring new technologies, frameworks, and methodologies to expand my skill set.
-Actively seeking opportunities to collaborate on exciting projects and contribute to the tech community.
-
 ## **🌐 Connect with Me**
 LinkedIn: www.linkedin.com/in/ahmedzeer
 
