@@ -1,20 +1,15 @@
-# **Hey there👋**
+```
+=================== Welcome. ===================
 
-## **🌟 About Me**
-I'm a passionate computer engineering student dedicated to exploring the intersections of hardware and software. Fascinated by the intricate concepts of computer science, I delve into various projects and coursework to expand my knowledge in this dynamic field.
+Current Projects: Currenly working on LLMs, at the university's R&D group.
+Not to mention implementing ML algorithms in C++ just for fun.
 
-## **💻 What I'm Working On**
-Course Projects: Currently diving deep into _C programming Language_ where I'm exploring different _low-level projects_.
-Personal Projects: Trying to enhance my comprehension in _Machine Learning_ concepts.
+Interests : Intersection between AI and C/CPP.
 
-## **🚀 Skills & Interests**
-Programming Languages: C and Python.
-Problem Solving: Love tackling challenging problems and crafting efficient solutions.
+Contact : https://www.linkedin.com/in/ahmedzeer/
 
-## **🌐 Connect with Me**
-LinkedIn: www.linkedin.com/in/ahmedzeer
+Website : https://cosmos.yildiz.edu.tr/
 
-Email: ahmed.zeer@std.yildiz.edu.tr
+===================    :)    ===================
 
-Feel free to explore my repositories to see what I'm currently working on. Open to collaborations and always eager to connect with fellow tech enthusiasts!
-
+```
