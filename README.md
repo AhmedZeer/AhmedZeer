@@ -6,9 +6,9 @@ Not to mention implementing ML algorithms in C++ just for fun.
 
 Interests : Intersection between AI and C/CPP.
 
-Contact : https://www.linkedin.com/in/ahmedzeer/
+Contact : www.linkedin.com/in/ahmedzeer
 
-Website : https://cosmos.yildiz.edu.tr/
+Website : cosmos.yildiz.edu.tr
 
 ===================    :)    ===================
 
